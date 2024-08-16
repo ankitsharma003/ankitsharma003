@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankitsharma003
 - Portfolio-https://ankit-sharma.onrender.com/
-- 🌱 I’m currently learning python and machine learning 
 - Gmail- ankkiit@gmail.com
 - instagram - @_ankkit7
 <!---
